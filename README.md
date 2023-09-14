@@ -1,6 +1,6 @@
 # Introduction to Jupyter Notebooks in VS Code
 
-- [GitHub Repository](https://github.com/denisecase/datafun-04-notebooks/)
+- [GitHub Repository](https://github.com/umams2002/datafun-04-notebooks/)
 
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
 
